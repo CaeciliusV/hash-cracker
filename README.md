@@ -23,7 +23,10 @@ they are still vlnerable.
 - Using the time library
 
 ## How to run it
-
+- NOTE: Both files are the same but one contains the notes that explicitly
+        explain everything while the other is just the code so you can read
+        it easier.
+  
 1. Download or clone this repository
 2. Download a wordlist (rockyou.txt is recommended)
 3. Generate a test hash to crack:
