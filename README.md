@@ -2,7 +2,7 @@
 
 This is a command-line dictionary attack tool that cracks MD5 and SHA1 password hashes using a wordlist.
 I built it to understand how password hashing works and why even when weak passwords are stored as hashes 
-they are still vlnerable.
+they are still vulnerable.
 
 ## What it does
 
