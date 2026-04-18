@@ -1,8 +1,12 @@
 # Beginner Python Hash Cracker
 
+## Status: Complete
+
 This is a command-line dictionary attack tool that cracks MD5 and SHA1 password hashes using a wordlist.
 I built it to understand how password hashing works and why even when weak passwords are stored as hashes 
 they are still vulnerable.
+
+This project is part of a bigger series in which i learn real-world cybersecurity skills alongside my T Level
 
 ## What it does
 
@@ -21,6 +25,7 @@ they are still vulnerable.
 - File handling in Python
 - Using the hashlib library
 - Using the time library
+- Salting is used to counter this method by adding random values into the password before it is hashed
 
 ## How to run it
 - NOTE: Both files are the same but one contains the notes that explicitly
